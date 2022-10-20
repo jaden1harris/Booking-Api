@@ -33,3 +33,6 @@ database to hold some fake data and a backend API to communicate with your Parse
 
 - [-]Create an endpoint that allows the used to sort descending or ascending. ***(5 points)***
     - Add this by using a query string (ie, `http://localhost:8080/api/v1/product/?sort=asc`)
+    
+![](https://github.com/jaden1harris/Booking-Api/blob/master/BookingAPI%20pt1.gif)    
+    
